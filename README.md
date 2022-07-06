@@ -7,4 +7,6 @@ This is the final project of my team at the last semester of our Chemical Engine
 Aspen Plus Software, Microsoft Excel, Microsoft Power Point, Microsoft Words
 
 ## Illustration
-![alt text](https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot1.jpg)
+![alt text](https://github.com/cindysuyitno/Conceptual-Design-and-Techno-Economic-Analysis-of-CO-and-MN-to-Produce-Ethylene-Glycol/blob/main/screenshoot1.png)
+![alt text](https://github.com/cindysuyitno/Conceptual-Design-and-Techno-Economic-Analysis-of-CO-and-MN-to-Produce-Ethylene-Glycol/blob/main/screenshoot2.png)
+![alt text](https://github.com/cindysuyitno/Conceptual-Design-and-Techno-Economic-Analysis-of-CO-and-MN-to-Produce-Ethylene-Glycol/blob/main/screenshoot3.png)
